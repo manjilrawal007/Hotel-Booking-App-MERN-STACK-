@@ -136,5 +136,5 @@ cd mern-booking-app
 
 # License
 
-    # Copyright [2024] [Manjil Rawal]
+    Copyright [2024] [Manjil Rawal]
     This project is licensed under the MIT License.
