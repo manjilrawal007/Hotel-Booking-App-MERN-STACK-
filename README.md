@@ -133,3 +133,8 @@ cd mern-booking-app
     - Install dependencies: `npm install`.
     - Start the frontend and backend server using the steps above
     - [Using the Playwright extension to run the tests](https://playwright.dev/docs/getting-started-vscode#running-tests)
+
+# License
+
+    # Copyright [2024] [Manjil Rawal}
+    This project is licensed under the MIT License.
